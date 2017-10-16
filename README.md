@@ -4,7 +4,7 @@
 
 ## réalisation  : Alexandre Douard
 
-#Github page : https://kvort3x.github.io/GameOfLife/
+#Github page : https://douardalexandre.github.io/GameOfLife/
 
 
 
